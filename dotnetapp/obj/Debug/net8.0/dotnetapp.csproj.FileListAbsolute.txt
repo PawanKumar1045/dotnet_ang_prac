@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/dotnetapp/bin/Debug/net8.0/dotnetapp
+/workspaces/codespaces-blank/dotnetapp/bin/Debug/net8.0/dotnetapp.deps.json
+/workspaces/codespaces-blank/dotnetapp/bin/Debug/net8.0/dotnetapp.runtimeconfig.json
+/workspaces/codespaces-blank/dotnetapp/bin/Debug/net8.0/dotnetapp.dll
+/workspaces/codespaces-blank/dotnetapp/bin/Debug/net8.0/dotnetapp.pdb
+/workspaces/codespaces-blank/dotnetapp/obj/Debug/net8.0/dotnetapp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/dotnetapp/obj/Debug/net8.0/dotnetapp.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/dotnetapp/obj/Debug/net8.0/dotnetapp.AssemblyInfo.cs
+/workspaces/codespaces-blank/dotnetapp/obj/Debug/net8.0/dotnetapp.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/dotnetapp/obj/Debug/net8.0/dotnetapp.dll
+/workspaces/codespaces-blank/dotnetapp/obj/Debug/net8.0/refint/dotnetapp.dll
+/workspaces/codespaces-blank/dotnetapp/obj/Debug/net8.0/dotnetapp.pdb
+/workspaces/codespaces-blank/dotnetapp/obj/Debug/net8.0/dotnetapp.genruntimeconfig.cache
+/workspaces/codespaces-blank/dotnetapp/obj/Debug/net8.0/ref/dotnetapp.dll
+/workspaces/codespaces-blank/dotnetapp/obj/Debug/net8.0/dotnetapp.sourcelink.json
